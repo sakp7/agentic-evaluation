@@ -7,3 +7,4 @@ langchain_groq
 langchain_text_splitters
 litellm
 streamlit
+pysqlite3-binary
